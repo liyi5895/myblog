@@ -1,0 +1,11 @@
+@import "no-style-please";
+
+// Override code block background
+// pre, code {
+//   background-color: inherit !important;
+// }
+
+// If you want a slight background difference, use a subtle color:
+pre, code {
+  background-color: rgba(0, 0, 0, 0.05) !important; // slightly darker than surrounding
+} 

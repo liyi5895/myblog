@@ -1,0 +1,15 @@
+entries:
+  - title: 2024
+    post_list:
+      limit: 5
+      category: 2024
+
+  - title: 2022
+    post_list:
+      limit: 5
+      category: 2022
+
+  - title: 2021
+    post_list:
+      limit: 5
+      category: 2021
