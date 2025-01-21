@@ -6,7 +6,7 @@ categories: [essay, 2021]
 ---
 
 <div style="text-align: center">
-    <img src="/assets/images/the_body_keeps_the_score.jpg" alt="Book Cover" style="width: 300px; max-width: 100%;">
+    <img src="{{ site.baseurl }}/assets/images/the_body_keeps_the_score.jpg" alt="Book Cover" style="width: 300px; max-width: 100%;">
 </div>
 
 <style>

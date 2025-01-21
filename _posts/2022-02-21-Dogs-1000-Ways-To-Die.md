@@ -6,7 +6,7 @@ categories: [essay, 2022]
 ---
 
 <div style="text-align: center">
-    <img src="/assets/images/jelly.jpg" alt="Jelly" style="width: 400px; max-width: 100%;">
+    <img src="{{ site.baseurl }}/assets/images/jelly.jpg" alt="Jelly" style="width: 400px; max-width: 100%;">
     <p style="font-size: 0.9em; color: #666; margin-top: 0.5em;">受气包戴着大一号的cone</p>
 </div>
 

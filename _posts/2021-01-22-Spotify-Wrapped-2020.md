@@ -6,7 +6,7 @@ categories: [essay, 2021]
 ---
 
 <div style="text-align: center">
-    <img src="/assets/images/jiqing_street.jpg" alt="Jiqing Street" style="width: 600px; max-width: 100%;">
+    <img src="{{ site.baseurl }}/assets/images/jiqing_street.jpg" alt="Jiqing Street" style="width: 600px; max-width: 100%;">
     <p style="font-size: 0.9em; color: #666; margin-top: 0.5em;">Jiqing Street, Wuhan, January 2020</p>
 </div>
 

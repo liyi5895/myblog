@@ -22,8 +22,8 @@ title: Li's Blog
 email: garboyi2011@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Li's blog for personal growth.
-baseurl: "/myblog" # the subpath of your site, e.g. /blog
-url: "https://liyi5895.github.io" # your GitHub Pages URL
+baseurl: "/myblog"
+url: "https://liyi5895.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -57,5 +57,5 @@ theme_config:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Add this permalink setting
-permalink: /myblog/:year/:month/:day/:title
+# Update permalink to use the actual baseurl value
+permalink: /:year/:month/:day/:title

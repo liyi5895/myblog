@@ -38,7 +38,7 @@ categories: [essay, 2024]
 好像不论发生什么，跑一场步便像下一场雨，冲刷走纷扰的思绪，留下一片清新的空白。
 
 <div style="text-align: center; margin: 2em 0;">
-    <img src="/assets/images/green_lake.jpg" alt="Green Lake" style="width: 500px; max-width: 100%;">
+    <img src="{{ site.baseurl }}/assets/images/green_lake.jpg" alt="Green Lake" style="width: 500px; max-width: 100%;">
     <p style="font-size: 0.9em; color: #666; margin-top: 0.5em;">足球场夜跑拉伸</p>
 </div>
 
@@ -231,7 +231,7 @@ categories: [essay, 2024]
 一次跟着跑团晨练。日出时淡青色的光晕洒在湿漉漉的草地上，一百多人依次分组出发，轰隆隆的步伐踩把石子路踏得尘土飞扬。那一刻我意识到，这蓬勃而愉快的生命力是进行时，或将成为记忆中的过去时，无论未来如何，没有人可以从我这里夺走它们。我不会回到“外面的世界”，我永远在当下的洪流之中。
 
 <div style="text-align: center; margin: 2em 0;">
-    <img src="/assets/images/slu.jpg" alt="South Lake Union" style="width: 500px; max-width: 100%;">
+    <img src="{{ site.baseurl }}/assets/images/slu.jpg" alt="South Lake Union" style="width: 500px; max-width: 100%;">
     <p style="font-size: 0.9em; color: #666; margin-top: 0.5em;">环湖路线</p>
 </div>
 

@@ -90,7 +90,7 @@ I used [Crawlee](https://crawlee.dev/docs/introduction), an open-source web scra
 2. **Telling our crawler what to grab:** In the `requestHandler`, I had to point out what data to extract. Crawlee provides a [handy tutorial](https://crawlee.dev/docs/introduction/real-world-project#devtools---the-scrapers-toolbox) on finding the right CSS class to target.
 
 <div style="text-align: center; margin: 2em 0;">
-    <img src="/assets/images/crawl.png" alt="Crawlee" style="width: 600px; max-width: 100%;">
+    <img src="{{ site.baseurl }}/assets/images/crawl.png" alt="Crawlee" style="width: 600px; max-width: 100%;">
 </div>
 
 3. **Navigating the web maze:** Crawlee encapsulates the complex logic of where to go next in a clean interface called `enqueueLinks`. This interface lets you define which elements to select and strategies to include or filter URLs. For WBW, I just needed the crawler to always stay in the same domain and skip those product selling pages.
