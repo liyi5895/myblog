@@ -12,7 +12,7 @@ A minimalist personal blog: https://liyi5895.github.io/myblog/
    ```
 4. Start the local server:
    ```bash
-   bundle exec jekyll serve
+   bundle exec jekyll serve --baseurl "/myblog"
    ```
 5. Visit `http://localhost:4000/myblog` in your browser
 

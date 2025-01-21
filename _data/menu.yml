@@ -1,4 +1,8 @@
 entries:
+  - title: 2025
+    post_list:
+      limit: 5
+      category: 2025
   - title: 2024
     post_list:
       limit: 5
